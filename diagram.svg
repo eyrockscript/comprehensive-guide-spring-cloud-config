@@ -5,9 +5,6 @@
   <!-- Title -->
   <text x="400" y="40" font-family="Arial" font-size="24" text-anchor="middle" font-weight="bold">Spring Cloud Config Architecture</text>
   
-  <!-- Logo -->
-  <circle cx="350" cy="30" r="15" fill="#1565c0" />
-  
   <!-- Main Components Section -->
   <rect x="80" y="70" width="640" height="180" rx="10" fill="#ffffff" stroke="#e0e0e0" stroke-width="1.5" />
   
