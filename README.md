@@ -194,6 +194,4 @@ To effectively use Spring Cloud Config:
 
 Spring Cloud Config provides a robust solution for managing configurations in a distributed microservices environment. By centralizing configuration management, it simplifies operations and ensures consistency across services and environments.
 
-The example GitHub repository [bl-poc-config-repo](https://github.com/VectorTT/bl-poc-config-repo) demonstrates how to organize configurations effectively, separating common properties from application-specific and environment-specific settings.
-
 By following the best practices outlined in this whitepaper, you can implement a reliable and secure configuration management system for your SpringBoot microservices architecture.
